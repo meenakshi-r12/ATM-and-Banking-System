@@ -1,4 +1,4 @@
-<img width="1245" height="895" alt="324153491-7c5b4136-294e-4b97-a6f8-07d590c22538" src="https://github.com/user-attachments/assets/87d7e3e8-9cb6-4b16-a311-7b4e7f88ebe6" /># ATM-AND-BANKING-SYSTEM
+# ATM-AND-BANKING-SYSTEM
 # Reg No:212224220062
 # Name:Meenakshi.R
 # Date:21.9.25
